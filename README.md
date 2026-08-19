@@ -2,20 +2,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2,DA22FF,FF79C6&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
-<!-- TYPING EFFECT -->
+  
+  <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
+  </a>
   <br />
-<!-- SOCIAL BADGES -->
-<a href="mailto:simpi11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/simpi-gogoi-761399302/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=2b5876" alt="Portfolio" />
-</a>
+
+  <!-- SOCIAL BADGES -->
+  <a href="mailto:simpi11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/simpi-gogoi-761399302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=2b5876" alt="Portfolio" />
+  </a>
+</div>
+
 <br />
 
 ---
@@ -28,6 +33,7 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 * 📊 **Focus**: Exploratory Data Analysis (EDA), predictive modeling, and performance analytics.
 * 🛢️ **Domain Expertise**: Specializing in Upstream Petroleum systems and operational telemetry data.
 * 🛠️ **Current Initiatives**: Developing real-time anomaly detection and decision support systems.
+
 ---
 
 <!-- TECH STACK -->
@@ -50,6 +56,9 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 <!-- FEATURED WORK -->
 ## 🚧 Currently Building
 
@@ -58,6 +67,7 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 | **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making. | `🐈 Work in Progress` |
 
 ---
+
 ## 🌟 Key Projects & Contributions
 
 | Project | Highlights & Domain | Status |
@@ -67,16 +77,17 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 | **[`Predictive-Maintenance-Analysis-in-Petroleum`](https://github.com/Project-Our-s/Predictive-Maintenance-Analysis-in-Petroleum-using-ML)** | Anomaly detection and industrial predictive maintenance pipeline evaluated on the Petrobras 3W dataset. | `Active` |
 
 ---
+
 <!-- COLLABORATIVE SPACES -->
 ## 🌸 Collaborative Spaces
 
 * **[Project-Our-s](https://github.com/Project-Our-s)** — A collaborative data engineering and ML workspace built alongside [Swagatam](https://github.com/swagatambordoloi).
+
 ---
+
 <!-- CONTRIBUTION GRAPH -->
 ## 🐍 Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Project-Our-s/.github/output/simpi-snake.svg" alt="Simpi's Contribution Snake" width="90%" />
 </div>
-
----
