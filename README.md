@@ -28,7 +28,6 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 * 📊 **Focus**: Exploratory Data Analysis (EDA), predictive modeling, and performance analytics.
 * 🛢️ **Domain Expertise**: Specializing in Upstream Petroleum systems and operational telemetry data.
 * 🛠️ **Current Initiatives**: Developing real-time anomaly detection and decision support systems.
-
 ---
 
 <!-- TECH STACK -->
