@@ -70,8 +70,8 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 | Project | Highlights & Domain | Status |
 | :--- | :--- | :---: |
 | **[`IntelliWell`](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells)** | AI decision-support platform combining ML, NLP report mining, and BI dashboards for oil well health and production forecasting. | `Stable` |
+| **[`Network-Attack-Analysis-And-Detection`](https://github.com/Project-Our-s/Predictive-Maintenance-Analysis-in-Petroleum-using-ML)** | This project utilizes the CIC-IDS2017dataset, a widely used benchmark for network intrusion detection, containing both normal and malicious network traffic.Attack categories such as Botnet, DDoS, DoS, Brute Force, Web Attack, Port Scan, and Infiltration with the primary focus on malicious network traffic. | `Stable` |
 | **[`Predictive-Maintenance-Analysis-in-Petroleum`](https://github.com/Project-Our-s/Predictive-Maintenance-Analysis-in-Petroleum-using-ML)** | Anomaly detection and industrial predictive maintenance pipeline evaluated on the Petrobras 3W dataset. | `Active` |
-| **[`Real-Time Drilling Analysis`](https://github.com/Project-Our-s)** | ML telemetry system monitoring pressure, torque, RPM, and flow rate to forecast operational drilling conditions. | `🔨 Building` |
 
 ---
 <!-- COLLABORATIVE SPACES -->
