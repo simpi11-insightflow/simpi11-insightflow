@@ -64,7 +64,7 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 <!-- COLLABORATIVE SPACES -->
 ## 🌸 Collaborative Spaces
 
-* **[Project-Our-s](https://github.com/Project-Our-s)** — A collaborative data engineering and ML workspace built alongside [@swagatambordoloi](https://github.com/swagatambordoloi).
+* **[Project-Our-s](https://github.com/Project-Our-s)** — A collaborative data engineering and ML workspace built alongside [Swagatam](https://github.com/swagatambordoloi).
 ---
 <!-- CONTRIBUTION GRAPH -->
 ## 🐍 Activity
