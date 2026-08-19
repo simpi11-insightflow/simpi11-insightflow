@@ -58,6 +58,13 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- FEATURED WORK -->
+## 🚧 Currently Building
+
+| Project | Focus & Domain | Status |
+| :--- | :--- | :---: |
+| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making. | `🐈 Work in Progress` |
+
+---
 ## 🌟 Key Projects & Contributions
 
 | Project | Highlights & Domain | Status |
