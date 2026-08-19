@@ -44,15 +44,13 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 
 <br />
 
-**Databases, BI & Backend**
+**Databases, BI & Analytics Tools**
 <br />
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 <!-- FEATURED WORK -->
 ## 🌟 Key Projects & Contributions
 
