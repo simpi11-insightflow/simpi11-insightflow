@@ -3,11 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
 
-<!-- SUBTITLE / INTRO -->
-  <p align="center">
-    <b>Data Analyst & ML Enthusiast</b> | Transforming Complex Industrial & Energy Data into Actionable Insights
-  </p>
-<br />
+<!-- TYPING EFFECT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
+  </a>
+
+  <br />
 <!-- SOCIAL BADGES -->
 <a href="mailto:swagatam.b2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
