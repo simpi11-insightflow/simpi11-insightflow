@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
-  <img src="https://img.shields.io/badge/🌸_Portfolio-Live_Site-ff79c6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/✨_Portfolio-Explore_Work-a044ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
