@@ -5,9 +5,8 @@
 
 <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
-  </a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
+</a>
   <br />
 <!-- SOCIAL BADGES -->
 <a href="mailto:simpi11@gmail.com">
