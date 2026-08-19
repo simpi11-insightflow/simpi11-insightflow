@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b5876,4e4376,6a3093,a044ff&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
 
 <!-- TYPING EFFECT -->
