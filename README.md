@@ -8,7 +8,7 @@
     <b>Data Analyst & ML Enthusiast</b> | Transforming Complex Industrial & Energy Data into Actionable Insights
   </p>
 <br />
-!-- SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <a href="mailto:swagatam.b2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
