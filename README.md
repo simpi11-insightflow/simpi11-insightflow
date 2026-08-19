@@ -88,11 +88,3 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 
 ---
 
-<!-- GET IN TOUCH -->
-## 📬 Connect
-
-<div align="center">
-  <a href="https://github.com/simpi11-insightflow">
-    <img src="https://img.shields.io/badge/GitHub-simpi11--insightflow-181717?style=for-the-badge&logo=github" alt="Simpi's GitHub" />
-  </a>
-</div>
