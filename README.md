@@ -25,7 +25,7 @@
 
 ---
 
-<<!-- ABOUT ME -->
+<!-- ABOUT ME -->
 ## 📌 About Me
 
 Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive maintenance, and business intelligence, with a deep interest in applying analytical solutions to energy and industrial systems.
