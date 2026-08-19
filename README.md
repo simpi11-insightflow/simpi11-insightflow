@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
 
-  <!-- SUBTITLE / INTRO -->
+<!-- SUBTITLE / INTRO -->
   <p align="center">
     <b>Data Analyst & ML Enthusiast</b> | Transforming Complex Industrial & Energy Data into Actionable Insights
   </p>
