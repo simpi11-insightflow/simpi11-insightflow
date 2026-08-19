@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/simpi-gogoi-761399302/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
-  <img src="https://img.shields.io/badge/🌸_Portfolio-ff79c6?style=flat&logo=JSON%20web%20tokens&logoColor=white&labelColor=21262d" height="28" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=2b5876" alt="Portfolio" />
 </a>
 
 
