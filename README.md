@@ -19,15 +19,14 @@
 
 <br />
 
-<!-- ABOUT ME -->
+<<!-- ABOUT ME -->
 ## 📌 About Me
 
 Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive maintenance, and business intelligence, with a deep interest in applying analytical solutions to energy and industrial systems.
 
-* 📊 **What I Do**: Exploratory Data Analysis (EDA), predictive modeling, BI dashboards, and anomaly detection.
-* 🛢️ **Domain Expertise**: Upstream petroleum systems, sensor telemetry data, and operational forecasting.
-* 🤝 **Collaborative Work**: Co-lead at [**Project-Our-s**](https://github.com/Project-Our-s), engineering end-to-end data systems.
-* 🎯 **Current Goal**: Advancing deep learning and real-time streaming analytics for industrial applications.
+* 📊 **Focus**: Exploratory Data Analysis (EDA), predictive modeling, and performance analytics.
+* 🛢️ **Domain Expertise**: Specializing in Upstream Petroleum systems and operational telemetry data.
+* 🛠️ **Current Initiatives**: Developing real-time anomaly detection and decision support systems.
 
 ---
 
@@ -81,8 +80,5 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 <div align="center">
   <a href="https://github.com/simpi11-insightflow">
     <img src="https://img.shields.io/badge/GitHub-simpi11--insightflow-181717?style=for-the-badge&logo=github" alt="Simpi's GitHub" />
-  </a>
-  <a href="https://github.com/Project-Our-s">
-    <img src="https://img.shields.io/badge/Organization-Project--Our--s-6f42c1?style=for-the-badge&logo=github" alt="Org Profile" />
   </a>
 </div>
