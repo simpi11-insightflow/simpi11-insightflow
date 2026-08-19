@@ -15,6 +15,15 @@
   <a href="#-tech-stack">
     <img src="https://img.shields.io/badge/Focus-Data_Analytics_&_ML-ff69b4?style=for-the-badge&logo=python&logoColor=white" alt="Focus" />
   </a>
+  a href="mailto:swagatam.b2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/swagatam-bordoloi-02ab58326">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://swagatambordoloi.github.io/swagatam_bordoloi.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</a>
 </div>
 
 <br />
