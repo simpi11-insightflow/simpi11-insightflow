@@ -1,8 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b5876,4e4376,6a3093,a044ff&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2,DA22FF,FF79C6&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
-
 <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+ML+Enthusiast;Petroleum+%26+Industrial+Data+Systems;Transforming+Complex+Data+into+Insights" alt="Typing SVG" />
