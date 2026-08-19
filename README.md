@@ -14,9 +14,8 @@
 </a>
 <a href="https://www.linkedin.com/in/simpi-gogoi-761399302/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff758c,a044ff&height=40&width=220&text=🌸%20View%20Portfolio%20✨&fontSize=15&fontColor=ffffff" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🎀_Portfolio-Visit_Website-ff6b81?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
