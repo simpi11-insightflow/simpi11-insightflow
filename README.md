@@ -16,8 +16,6 @@
 <a href="https://simpi11-insightflow.github.io/simpi_gogoi.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=2b5876" alt="Portfolio" />
 </a>
-
-
 <br />
 
 ---
