@@ -61,7 +61,11 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 | **[`Real-Time Drilling Analysis`](https://github.com/Project-Our-s)** | ML telemetry system monitoring pressure, torque, RPM, and flow rate to forecast operational drilling conditions. | `🔨 Building` |
 
 ---
+<!-- COLLABORATIVE SPACES -->
+## 🌸 Collaborative Spaces
 
+* **[Project-Our-s](https://github.com/Project-Our-s)** — A collaborative data engineering and ML workspace built alongside [@swagatambordoloi](https://github.com/swagatambordoloi).
+---
 <!-- CONTRIBUTION GRAPH -->
 ## 🐍 Activity
 
