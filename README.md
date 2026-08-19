@@ -1,7 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff758c,ff7eb3,a18cd1&height=200&section=header&text=Hi,%20I'm%20Simpi%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <br />
 
   <!-- SUBTITLE / INTRO -->
