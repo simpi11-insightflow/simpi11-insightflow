@@ -89,6 +89,10 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 <!-- CONTRIBUTION GRAPH -->
 ## 🐍 Activity
 
+<p align="center">
+  <i>A little pink companion munching through daily commits & data adventures 🌸✨</i>
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Project-Our-s/.github/output/simpi-snake.svg" alt="Simpi's Contribution Snake" width="90%" />
 </div>
