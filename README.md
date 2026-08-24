@@ -90,7 +90,7 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 ## 🐍 Activity
 
 <p align="center">
-  <i>Tracing progress, one contribution at a time ✨</i>
+  <i>Tracing progress, one contribution at a time ✨ </i>
 </p>
 
 <div align="center">
