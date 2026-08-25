@@ -61,12 +61,12 @@ Welcome to my corner of GitHub! I specialize in data-driven modeling, predictive
 ---
 
 <!-- FEATURED WORK -->
+<!-- CURRENTLY BUILDING -->
 ## 🚧 Currently Building
 
-| Project | Focus & Domain | Status |
-| :--- | :--- | :---: |
-| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making. | `🐈 Work in Progress` |
-
+| Project | Focus & Domain | Status | Codebase |
+| :--- | :--- | :---: | :---: |
+| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making. | `🐈 Work in Progress` | [Check Progress →](https://github.com/Project-Our-s/Real-Time-Drilling-Analysis-with-ML) |
 ---
 
 ## 🌟 Key Projects & Contributions
